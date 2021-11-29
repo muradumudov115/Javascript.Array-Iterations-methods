@@ -54,18 +54,30 @@
 
 
 // find.task
+// let arr=[13,16,19,20,45];
+// for (let index = 0; index < arr.length; index++) {
+//     const element = array[index];
+//     if (element>18) {
+//         console.log(element);
+//         break
+//       }
+//       else{
+//           console.log("underfind");
+//       }
 
+    
+// }
 
 
 
 // foreach.task
-const letters=['1','2','3','4','8'];
-let count={};
-letters.forEach(item=>{
-    if (count[item]) {
-        count[item]++;
-    }else{
-        count[item]=1;
-    }
-});
-console.log(count);
+// const letters=['1','2','3','4','8'];
+// let count={};
+// letters.forEach(item=>{
+//     if (count[item]) {
+//         count[item]++;
+//     }else{
+//         count[item]=1;
+//     }
+// });
+// console.log(count);
